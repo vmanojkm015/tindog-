@@ -1,2 +1,1 @@
-# tindog-
-Advanced CSS and Bootstrap 4
+TinDog Starting Files
